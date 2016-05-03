@@ -13,3 +13,7 @@ For when there would be a potential fork in software, perhaps for trying somethi
 
 How do Diagrams help you visualise the branch structure?
 They give you a visual representation of the branch log.  
+
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+To combine the changes they have made on the file.  To signify that all the information will be accessible, sorted by timestamp.
+
