@@ -4,4 +4,8 @@ When its work you'd want to share with the world or for teams working together o
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Changes on remote by someone else that you're not ready to pull through to yours (eg.)
 
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+clone - copy of entire repository including all history and branches
+branch - something within a repository.  Represents a thread of development.
+fork - copy source to your own master.  Change direction or to have write access and submit as patch.
 
