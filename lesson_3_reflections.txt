@@ -11,3 +11,7 @@ fork - copy source to your own master.  Change direction or to have write access
 
 What is the benefit of having a copy of the last know state of the remote stored locally?
 To have a comparison to what the changes are.
+
+How would you collaborate without using Git or Github?  What would be easier, and what would be harder.
+Sitting in the same office with a dual edit sort of option, or virtual.
+If I knew the answer to this I'd be rich for starting a better alternative to GitHub.
