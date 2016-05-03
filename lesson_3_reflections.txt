@@ -9,3 +9,5 @@ clone - copy of entire repository including all history and branches
 branch - something within a repository.  Represents a thread of development.
 fork - copy source to your own master.  Change direction or to have write access and submit as patch.
 
+What is the benefit of having a copy of the last know state of the remote stored locally?
+To have a comparison to what the changes are.
